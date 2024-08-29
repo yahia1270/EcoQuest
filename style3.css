@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova:ital,wght@0,400;0,700;1,400&display=swap');
+*{
+    background-color: #014e5fff ;
+    font-family: "Bona Nova", serif;
+}
+p{
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: #014e26ff;
+}
+p b{
+    background-color: #014e26ff;
+}
+h1 
+{
+    text-align: center;
+    color: #d3e6d8ff;
+    background-color: #014e26ff;
+    margin-left: 40%;
+    margin-right: 40%;
+    font-size: xx-large;
+}
